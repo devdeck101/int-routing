@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Veja o vídeo do canal que explica o funcionamento [DeveloperDeck101 - Nextjs 13.4 Multi-Idioma](https://www.youtube.com/watch?v=Zy6vRMvQEng)
+
+Canal do YouTube [DeveloperDeck101](https://www.youtube.com/@DeveloperDeck101)
+
 First, run the development server:
 
 ```bash
